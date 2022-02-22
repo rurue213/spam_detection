@@ -1,0 +1,10 @@
+Flask
+joblib
+gunicorn
+sklearn
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+bs4
